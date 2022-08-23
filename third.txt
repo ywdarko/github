@@ -1,1 +1,2 @@
 A new commit in the third file
+Anew line
